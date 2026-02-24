@@ -1,0 +1,4 @@
+<Files "https://willslittleweb.github.io/analysis/x1nbbq.mp4">
+    Order allow,deny
+    Deny from all
+</Files>
